@@ -9,7 +9,7 @@ app.listen(3000);
 
 // register view engine
 app.set('view engine', 'ejs');
-
+//just commit
 // middleware & static files
 app.use(express.static('public'));
 
